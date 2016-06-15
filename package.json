@@ -1,0 +1,24 @@
+{
+  "name": "fis3-parser-mock-rewrite",
+  "version": "0.1.0",
+  "description": "fis3 plugin for automatically generate mock rewrite configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feshu/fis3-parser-mock-rewrite.git"
+  },
+  "keywords": [
+    "fis3",
+    "mock",
+    "rewrite"
+  ],
+  "author": "feshu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feshu/fis3-parser-mock-rewrite/issues"
+  },
+  "homepage": "https://github.com/feshu/fis3-parser-mock-rewrite#readme"
+}
