@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-mock-rewrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fis3 plugin for automatically generate mock rewrite configuration",
   "main": "index.js",
   "scripts": {
